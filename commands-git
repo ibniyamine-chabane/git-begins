@@ -16,4 +16,6 @@ et pour push dans la branche main :
 
 	git push origin main
 
+pour récupérer les modifications dans une branche main : 
 
+	git pull origin main
