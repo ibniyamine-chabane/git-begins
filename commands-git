@@ -1,21 +1,5 @@
 
 
- pour cloner un repo c'est la commande :
+ salutation , je viens tout casser !! dans le but de créer des conflits !!!!!! Mwahahahahahaha 
 
-	git clone + (url https ou ssh du repo)
-
-pour ajouté un fichier au repo : 
-
-	git add -A 
-
-pour commenter les l'ajout du git add : 
-
-	git commit -m "notre commentaire"
-
-et pour push dans la branche main :
-
-	git push origin main
-
-pour récupérer les modifications dans une branche main : 
-
-	git pull origin main
+confits conflits conflits !!!!!!!!!!!!!!!!
