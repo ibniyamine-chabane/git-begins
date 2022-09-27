@@ -2,9 +2,9 @@
 
 pour cloner un repo c'est la commande :
 
-	git clone + (url https ou ssh du repo)
+	git clone + (url https ou ssh du repo) 
 
-pour ajouté un fichier au repo : 
+pour ajouter un fichier au repo : 
 
 	git add -A 
 
